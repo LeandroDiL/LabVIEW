@@ -5,5 +5,5 @@ Realizzazione di tanti piccoli progetti per testare le varie funzionalità offer
 Lo strumento utilizzato in questo caso specifico è un *multimetro Agilent* connesso tramite *GPIB* con il computer.
 
 ## Tool
-LabVIEW
+LabVIEW  
 NI-MAX
