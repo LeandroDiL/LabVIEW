@@ -1,0 +1,9 @@
+idle
+state1
+state2
+idle
+state1
+state3
+state1
+state2
+stop
